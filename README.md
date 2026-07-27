@@ -4,7 +4,7 @@
 
 <!-- 🌊 WAVE HEADER -->
 <p align="center">
-  <img src="bgg.png" />
+  <img src="bgg.gif" width="100%" alt="Banner"/>
 </p>
 
 <!-- 🌈 FAST ANIMATED TYPING INTRO -->
