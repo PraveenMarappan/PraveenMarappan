@@ -117,7 +117,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenMarappan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8" height="180" />
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenMarappan&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true&height=180" height="180" />
 </p>
 
