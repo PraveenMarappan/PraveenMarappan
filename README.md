@@ -4,10 +4,10 @@
 
 
 
-<!-- 🌈 ANIMATED TYPING INTRO -->
+<!-- 🌈 FAST ANIMATED TYPING INTRO -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=600&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=110&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Praveen+Marappan;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%A4%96+AI+%26+Data+Science+Student;%F0%9F%92%A1+Building+the+Future+with+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1200&pause=200&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=110&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Praveen+Marappan;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%A4%96+AI+%26+Data+Science+Student;%F0%9F%92%A1+Building+the+Future+with+Code" alt="Typing SVG" />
   </a>
 </p>
 
