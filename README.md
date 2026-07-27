@@ -108,7 +108,7 @@
 
 <!-- 📊 GITHUB STATS -->
 <h2 align="center">
-  📊 &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=380&lines=GitHub+Analytics+%F0%9F%93%88" />
+  &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=380&lines=GitHub+Analytics+%F0%9F%93%88" />
 </h2>
 
 <p align="center">
@@ -123,7 +123,7 @@
 
 <!-- 🏆 TROPHIES -->
 <h2 align="center">
-  🏆 &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=380&lines=GitHub+Trophies+%F0%9F%8F%86" />
+  &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=380&lines=GitHub+Trophies+%F0%9F%8F%86" />
 </h2>
 
 <p align="center">
@@ -157,7 +157,7 @@
 
 <!-- 📚 CURRENTLY LEARNING -->
 <h2 align="center">
-  📚 &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=380&lines=Currently+Learning+%F0%9F%A7%A0" />
+   &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=380&lines=Currently+Learning+%F0%9F%A7%A0" />
 </h2>
 
 <p align="center">
@@ -174,7 +174,7 @@
 
 <!-- 🎯 2026 GOALS -->
 <h2 align="center">
-  🎯 &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFA500&center=true&vCenter=true&width=380&lines=2026+Goals+%F0%9F%94%A5" />
+  &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFA500&center=true&vCenter=true&width=380&lines=2026+Goals+%F0%9F%94%A5" />
 </h2>
 
 <p align="center">
@@ -198,7 +198,7 @@
 
 <!-- 💬 QUOTE -->
 <h2 align="center">
-  💬 &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=C77DFF&center=true&vCenter=true&width=380&lines=Dev+Quote+of+the+Day+%E2%9C%A8" />
+   &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=C77DFF&center=true&vCenter=true&width=380&lines=Dev+Quote+of+the+Day+%E2%9C%A8" />
 </h2>
 
 <p align="center">
@@ -207,7 +207,7 @@
 
 <!-- ☕ FUN FACTS -->
 <h2 align="center">
-  ☕ &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=380&lines=Fun+Facts+About+Me+%F0%9F%98%8E" />
+  &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=380&lines=Fun+Facts+About+Me+%F0%9F%98%8E" />
 </h2>
 
 <p align="center">
