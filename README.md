@@ -1,83 +1,159 @@
-<h1 align="center">Hi 👋, I'm Praveen Marappan</h1>
+<h1 align="center">
+  Hi 👋, I'm Praveen Marappan
+</h1>
 
 <h3 align="center">
-AI & Data Science Student | Full Stack Developer | Python Developer
+🚀 AI & Data Science Student | Full Stack Developer | Python Developer
 </h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Python+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-## 🚀 About Me
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+## 👨‍💻 About Me
 
 🎓 B.Tech Artificial Intelligence & Data Science
 
-💻 Passionate Full Stack Developer
+💼 Web Designer Intern @ Elevado Softwares
 
 🌱 Currently Learning
+
 - MERN Stack
 - Artificial Intelligence
 - Machine Learning
 - System Design
 
 🎯 Goal
-Become a Software Engineer and build impactful AI-powered applications.
+
+Become a Software Engineer and build AI-powered products.
+
+⚡ Fun Fact
+
+I love turning ideas into real applications.
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect With Me
 
-### Languages
-- Python
-- Java
-- JavaScript
-- HTML
-- CSS
+<p align="center">
 
-### Frontend
-- React
-- Bootstrap
-- Tailwind CSS
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### Backend
-- Node.js
-- Express.js
+<a href="YOUR_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
 
-### Database
-- MongoDB
-- MySQL
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-### Tools
-- Git
-- GitHub
-- VS Code
+</p>
 
 ---
 
-## 🚀 Projects
+# 🚀 Tech Stack
 
-### 🩺 Med Shopee
-React-based Medical Store Website
+<p align="center">
 
-### 💳 AI Credit Decision Engine
-Machine Learning based loan prediction
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode,bootstrap,tailwind"/>
 
-### 📄 Smart Paper Evaluation
-AI-based answer paper evaluation
+</p>
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
-(Add GitHub Readme Stats)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 📫 Connect with Me
+# 📊 Most Used Languages
 
-LinkedIn:
-https://linkedin.com/in/YOURUSERNAME
+<p align="center">
 
-GitHub:
-https://github.com/YOURUSERNAME
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
 
-Email:
-YOUR EMAIL
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia&column=4"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 💻 Featured Projects
+
+| Project | Tech |
+|----------|------|
+| 🏥 Med Shopee | React, CSS |
+| 🤖 AI Credit Decision Engine | Python, ML |
+| 📄 Smart Paper Evaluation | AI |
+| 🎫 Ticket Management System | MERN |
+| 💰 Expense Tracker | React |
+
+---
+
+# 📚 Currently Learning
+
+```text
+███████████░░░░░░░ 65% MERN Stack
+████████████░░░░░ 75% React
+█████████░░░░░░░░ 55% AI
+██████████████░░░ 85% Python
+```
+
+---
+
+# 👀 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# ⭐ Quote
+
+<p align="center">
+
+"Code. Learn. Build. Repeat."
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=footer"/>
+
+</p>
