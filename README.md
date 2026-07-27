@@ -17,7 +17,7 @@
 <!-- 👋 ANIMATED WELCOME BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px" />
-  <b>Welcome to my Neon Universe of Code</b>
+  <b>Welcome to My World of Innovation</b>
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px" />
 </p>
 
