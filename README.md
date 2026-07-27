@@ -4,7 +4,7 @@
 
 <!-- 🌊 WAVE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:00BFFF,50:FF00FF,75:00FFFF,100:FF1493&height=260&section=header&text=Praveen%20Marappan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science%20Student&descAlignY=60&descSize=18&descAlign=50" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20,24,30&text=Praveen%20Marappan&fontColor=ffffff&fontSize=65&fontAlignY=35&animation=twinkling&desc=🚀%20Full%20Stack%20Developer%20%7C%20🤖%20AI%20%26%20Data%20Science%20Student&descAlignY=58&descSize=20" />
 </p>
 
 <!-- 🌈 ANIMATED TYPING INTRO -->
