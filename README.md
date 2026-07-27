@@ -2,7 +2,10 @@
 <!-- 🌌 PRAVEEN MARAPPAN — PREMIUM GITHUB PROFILE README 🌌 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-
+<!-- 🌊 WAVE HEADER -->
+<p align="center">
+  <img src="bgg.png" />
+</p>
 
 <!-- 🌈 FAST ANIMATED TYPING INTRO -->
 <p align="center">
@@ -11,10 +14,7 @@
   </a>
 </p>
 
-<!-- 🌊 WAVE HEADER -->
-<p align="center">
-  <img src="bgg.png" />
-</p>
+
 
 <!-- 👋 ANIMATED WELCOME BANNER -->
 <p align="center">
