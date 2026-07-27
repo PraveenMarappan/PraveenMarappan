@@ -128,7 +128,7 @@
 
 <!-- 🌟 FEATURED PROJECTS -->
 <h2 align="center">
-  🌟 &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF1493&center=true&vCenter=true&width=380&lines=Featured+Projects+%F0%9F%9A%80" />
+   &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF1493&center=true&vCenter=true&width=380&lines=Featured+Projects+%F0%9F%9A%80" />
 </h2>
 
 <p align="center">
@@ -212,7 +212,7 @@
 
 <!-- 🌐 CONNECT -->
 <h2 align="center">
-  🌐 &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=380&lines=Let's+Connect+%F0%9F%A4%9D" />
+   &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=380&lines=Let's+Connect+%F0%9F%A4%9D" />
 </h2>
 
 <p align="center">
