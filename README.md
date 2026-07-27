@@ -62,7 +62,7 @@
 
 <!-- 🛠 TECH STACK -->
 <h2 align="center">
-  🛠️ &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF00FF&center=true&vCenter=true&width=380&lines=My+Tech+Arsenal+%E2%9A%A1" />
+  &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF00FF&center=true&vCenter=true&width=380&lines=My+Tech+Arsenal+%E2%9A%A1" />
 </h2>
 
 <p align="center"><b>💻 Languages</b></p>
