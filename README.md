@@ -112,13 +112,13 @@
 </h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=praveenmarappan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenmarappan&theme=radical&hide_border=true&background=0D1117&stroke=FF00FF&ring=00FFFF&fire=FF1493&currStreakLabel=00FFFF" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PraveenMarappan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenMarappan&theme=radical&hide_border=true&background=0D1117&stroke=FF00FF&ring=00FFFF&fire=FF1493&currStreakLabel=00FFFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenmarappan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8" height="180" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenmarappan&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true&height=180" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenMarappan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenMarappan&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true&height=180" height="180" />
 </p>
 
 
