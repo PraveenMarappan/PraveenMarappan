@@ -131,20 +131,7 @@
    &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF1493&center=true&vCenter=true&width=380&lines=Featured+Projects+%F0%9F%9A%80" />
 </h2>
 
-<p align="center">
-  <a href="https://github.com/PraveenMarappan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PraveenMarappan&repo=NovaMind&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF" />
-  </a>
-  <a href="https://github.com/PraveenMarappan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=praveenmarappan&repo=ai-projects&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/PraveenMarappan?tab=repositories">
-    <img src="https://img.shields.io/badge/🔍_Explore_All_Repositories-8A2BE2?style=for-the-badge&labelColor=0D1117" />
-  </a>
-</p>
 
 <!-- 📚 CURRENTLY LEARNING -->
 <h2 align="center">
