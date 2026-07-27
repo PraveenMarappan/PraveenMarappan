@@ -112,7 +112,7 @@
 </h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PraveenMarappan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+ 
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenMarappan&theme=radical&hide_border=true&background=0D1117&stroke=FF00FF&ring=00FFFF&fire=FF1493&currStreakLabel=00FFFF" />
 </p>
 
