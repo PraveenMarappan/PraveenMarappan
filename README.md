@@ -24,8 +24,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=praveenmarappan&label=Profile+Views&color=00ffff&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/praveenmarappan?label=Followers&style=for-the-badge&color=ff00ff&labelColor=1a1a2e" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=PraveenMarappan&label=Profile+Views&color=00ffff&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/PraveenMarappan?label=Followers&style=for-the-badge&color=ff00ff&labelColor=1a1a2e" alt="followers" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-8A2BE2?style=for-the-badge&labelColor=1a1a2e" alt="focus" />
 </p>
 
