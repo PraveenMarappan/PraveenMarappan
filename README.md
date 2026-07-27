@@ -133,7 +133,7 @@
 
 <p align="center">
   <a href="https://github.com/PraveenMarappan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PraveenMarappan&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PraveenMarappan&repo=NovaMind&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF" />
   </a>
   <a href="https://github.com/PraveenMarappan">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=praveenmarappan&repo=ai-projects&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF" />
