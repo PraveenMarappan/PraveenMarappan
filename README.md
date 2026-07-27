@@ -121,16 +121,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenmarappan&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true&height=180" height="180" />
 </p>
 
-<!-- 🏆 TROPHIES -->
-<h2 align="center">
-  &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=380&lines=GitHub+Trophies+%F0%9F%8F%86" />
-</h2>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=praveenmarappan&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-  </a>
-</p>
 
 <!-- 🌈 DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
@@ -193,8 +184,6 @@
 </table>
 </p>
 
-<!-- 🌈 DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" />
 
 <!-- 💬 QUOTE -->
 <h2 align="center">
