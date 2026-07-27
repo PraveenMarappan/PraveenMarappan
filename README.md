@@ -216,17 +216,14 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/praveenmarappan">
+  <a href="https://github.com/PraveenMarappan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/praveenmarappan">
+  <a href="https://www.linkedin.com/in/praveen-marappan-218423326?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:praveenmarappan@gmail.com">
+  <a href="mailto:praveenmarappan6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/praveenmarappan">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://instagram.com/praveenmarappan">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
