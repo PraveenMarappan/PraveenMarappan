@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bgg.gif" width="100%" alt="Praveen M Header" />
+  <img src="C:\Users\HP\OneDrive\Desktop\GITHUB\bgg.png" width="100%" alt="Praveen M Header" />
 </p>
 
 <p align="center">
