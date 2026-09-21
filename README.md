@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/PraveenMarappan">
-    <img src="https://readme-typingsvg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi+there!+I'm+Praveen+M+%F0%9F%91%8B;AI+%26+Data+Science+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%9A%80;Building+AI-Powered+Web+Solutions+%F0%9F%A4%96;Turning+ideas+into+practical+software+%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi+there!+I'm+Praveen+M+%F0%9F%91%8B;AI+%26+Data+Science+Student+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Building+AI-Powered+Web+Solutions+%F0%9F%92%A1;Turning+ideas+into+practical+software+%F0%9F%9B%A0%EF%B8%8F" width="100%" style="max-width: 620px;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -152,7 +152,7 @@
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveenMarappan&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PraveenMarappan&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="Praveen's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenMarappan&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
 </p>
 
@@ -163,7 +163,7 @@
 <h2 align="center">⚡ Contribution Journey</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contributiongrid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contributiongrid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 </p>
 
 <h2 align="center">📬 Let's Connect & Collaborate</h2>
